@@ -2,4 +2,4 @@
 Programing for IOS
 
 
-Introduction to use Xcode and Development app
+Introduction to use Xcode and app develop 
